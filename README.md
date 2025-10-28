@@ -3,7 +3,7 @@
 🎓 Étudiant en Master Génie Logiciel à siantou proprietaire d'une licence professionel obtenue a l'univerciter de yaounde 1
 💻 Développeur full-stack passionné par les architectures scalables, les apps mobiles et les solutions backend robustes  
 🧠 Curieux, rigoureux et motivé par les défis techniques et l’impact utilisateur  
-📍 Actuellement en stage chez Maeba SARL, où je conçois des applications Flutter, React js et Supabase
+📍 Actuellement en stage chez makiti SARL et osseca_dev, où je conçois des applications Flutter, React js et Supabase
 
 ---
 
