@@ -44,8 +44,8 @@
 
 ## 📊 Stats GitHub
 
-![Leonce's GitHub stats](https://github-readme-stats.vercel.app/api?username=pharel-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pharel-dev&layout=compact&theme=radical)
+![Leonce's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuintcheu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuintcheu&layout=compact&theme=radical)
 
 ---
 
