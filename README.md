@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Tuintcheu Pharel (Leonce)
+# 👋 Salut, moi c’est Tuintcheu Pharel
 
 🎓 Étudiant en Master Génie Logiciel à siantou proprietaire d'une licence professionel obtenue a l'univerciter de yaounde 1
 💻 Développeur full-stack passionné par les architectures scalables, les apps mobiles et les solutions backend robustes  
